@@ -1,0 +1,6 @@
+{
+  "cSpell.words": [
+    "Pulumi"
+  ],
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv"
+}
